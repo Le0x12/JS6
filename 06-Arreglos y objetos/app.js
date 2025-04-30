@@ -1,4 +1,4 @@
-/*
+    /*
 ARREGLOS son:
     *Mutables
     *Contienen index (inician con 0)
